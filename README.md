@@ -1,4 +1,6 @@
-## Pokemon Pokedex API
+## Pokemon Pokedex API ![image](https://github.com/user-attachments/assets/4ff8f9b5-b3ab-4256-ac77-1334244dd8ee)
+
+
 
 ### Prerequisites
 - Java 17
